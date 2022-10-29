@@ -1,0 +1,8 @@
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.exe.config
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.exe
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.pdb
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.exe
+C:\Users\vinic\Documents\curso_C#\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.pdb
