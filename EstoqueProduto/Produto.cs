@@ -23,7 +23,20 @@ namespace EstoqueProduto
 
         public void SetNome(string nome)
         {
-            _nome = nome;
+            if(nome!= null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
+        }
+
+        public double GetPreco()
+        {
+            return _preco;
+        }
+
+        public int GetQuantidade()
+        {
+            return _quantidade;
         }
 
         public double ValorTotalEmEstoque()
