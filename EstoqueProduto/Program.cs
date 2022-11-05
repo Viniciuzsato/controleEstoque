@@ -7,8 +7,13 @@ namespace EstoqueProduto
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto("Tv", 900.00, 10);
+
+            p.SetNome("Tv 4K");
+
+            Console.WriteLine(p.GetNome());
             
-            Console.WriteLine("Entre os dados do produto: ");
+            /* Console.WriteLine("Entre os dados do produto: ");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
@@ -36,6 +41,7 @@ namespace EstoqueProduto
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+            */
         }
     }
 }
