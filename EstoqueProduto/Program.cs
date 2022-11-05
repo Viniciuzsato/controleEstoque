@@ -9,9 +9,9 @@ namespace EstoqueProduto
         {
             Produto p = new Produto("Tv", 900.00, 10);
 
-            p.SetNome("Tv 4K");
+            p.Nome = "Tv 4K";
 
-            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.Nome);
             
             /* Console.WriteLine("Entre os dados do produto: ");
             Console.Write("Nome: ");
